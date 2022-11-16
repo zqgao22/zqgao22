@@ -3,7 +3,7 @@ title: Ziqi's Homepage (Under Construction)
 draft: false
 role: PhD Student at HKUST
 avatar: images/1.jpg
-bio: Hi! I am Ziqi, a first-year Ph.D. student from Data Sceience and Analytics at HKUST, advised by Prof. <font color=#871F78>[Jia Li]</font>(https://sites.google.com/view/lijia) and Prof. <font color=#871F78>[Yong Huang]</font>(http://www.huangresearch.org/). Prior to joining HKUST, I received my bachelor's degree from Huazhong University of Science & Technology and master's degree from Tsinghua University. My reseaech interests include AI-aided drug discovery and deep graph learning.
+bio: Hi! I am Ziqi, a first-year Ph.D. student from Data Sceience and Analytics at HKUST, advised by Prof. [***Jia Li***](https://sites.google.com/view/lijia) and Prof. [***Yong Huang***](http://www.huangresearch.org/). Prior to joining HKUST, I received my bachelor's degree from Huazhong University of Science and Technology and master's degree from Tsinghua University. My reseaech interests include AI-aided drug discovery and deep graph learning.
 organization:
   name: **Highly Recommended Blog of My Pal**
   url: https://linsto.org
@@ -43,11 +43,23 @@ widget:
     attachment: 
 ---
 
-## Self Introduction
+## Selected Publications
 
-Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id. Aenean ac velit massa. Vivamus feugiat dui at magna viverra, ut dictum nunc rutrum. Duis eget sapien finibus, lobortis orci id, vestibulum tellus. Maecenas lobortis urna libero, quis fermentum lectus lobortis nec. Nullam laoreet volutpat libero, ac mattis magna ullamcorper quis. Duis eget ipsum eu nisi mattis cursus et vitae turpis.
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                左侧
+            </td>
+            <td>
+                <!--右侧内容-->
+                右侧
+            </td>
+        </tr>
+    </table>
+</html>
 
-Aliquam pretium diam eget leo feugiat finibus. Donec malesuada commodo ipsum. Aenean a massa in lacus venenatis vestibulum. Duis vel sem quis elit iaculis consectetur et quis dolor. Morbi eu ipsum hendrerit, malesuada ante sed, dapibus est. Suspendisse feugiat nulla ut gravida convallis. Phasellus id massa posuere, rhoncus justo ut, porttitor dolor. Nulla ultrices malesuada egestas. Nunc fermentum tincidunt sem ac vulputate. Donec mollis sollicitudin justo eget varius. Donec ornare velit et felis blandit, id molestie sapien lobortis. Morbi eget tristique justo. Mauris posuere, nibh eu laoreet ultricies, ligula erat iaculis sapien, vel dapibus lacus libero ut diam. Etiam viverra ante felis, et scelerisque nunc pellentesque vitae. Praesent feugiat dictum molestie.
 
 ## Details  
 
