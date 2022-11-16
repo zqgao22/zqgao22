@@ -5,7 +5,7 @@ role: PhD Student at HKUST
 avatar: images/1.jpg
 bio: Hi! I am Ziqi, a first-year Ph.D. student from Data Sceience and Analytics at HKUST, advised by Prof. [***Jia Li***](https://sites.google.com/view/lijia) and Prof. [***Yong Huang***](http://www.huangresearch.org/). Prior to joining HKUST, I received my bachelor's degree from Huazhong University of Science and Technology and master's degree from Tsinghua University. My reseaech interests include AI-aided drug discovery and deep graph learning.
 organization:
-  name: Highly Recommended: My Pal's Blog
+  name: Highly Recommended My Pal's Blog
   url: https://linsto.org
 social:
   - icon: envelope
