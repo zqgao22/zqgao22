@@ -43,7 +43,11 @@ widget:
     attachment: 
 ---
 
-
+## Self Introduction
+**Hierarchical Graph Learning for Protein-Protein Interaction** <br>
+**Ziqi Gao**, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang and Jia Li<br>
+In *Nature Communications*, 2022 <br>
+\[Paper PDF]\ / \[Presentation\] / \[Slides\]
 
 
 ## Details  
