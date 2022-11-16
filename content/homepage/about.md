@@ -7,6 +7,9 @@ bio: Hi! I am Ziqi, a first-year Ph.D. student at IIP (data sceience and analyti
 organization:
   name: HKUST IIP
   url: https://emia.hkust.edu.hk/iip
+person:
+  name: HKUST IIP
+  url: https://linsto.org
 social:
   - icon: envelope
     iconPack: fas
