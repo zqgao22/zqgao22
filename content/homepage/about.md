@@ -54,7 +54,11 @@ In *Nature Communications*, 2022 <br>
 **Ziqi Gao**, Yifan Niu, Jiashun Cheng, Jianheng Tang, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li<br>
 In *AAAI*, 2023 <br>
 [Paper PDF] [Presentation] [Slides]
-
+<br><br>
+**<font color=Purple size=12>ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery</font>**<br>
+Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hengtong Zhang, Yang Yu, Chan Lu, Zhipeng Zhou, Hongteng Xu, Jia Li, Peilin Zhao, Pheng-Ann Heng<br>
+In *AAAI*, 2023 <br>
+[Paper PDF] [Presentation] [Slides]
 ## Details  
 
 Nunc pellentesque vitae:
