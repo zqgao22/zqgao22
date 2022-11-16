@@ -49,6 +49,11 @@ widget:
 **Ziqi Gao**, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang and Jia Li<br>
 In *Nature Communications*, 2022 <br>
 [Paper PDF] [Presentation] [Slides]
+<br><br>
+**<font color=Purple size=12>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**<br>
+**Ziqi Gao**, Yifan Niu, Jiashun Cheng, Jianheng Tang, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li<br>
+In *AAAI*, 2023 <br>
+[Paper PDF] [Presentation] [Slides]
 
 ## Details  
 
