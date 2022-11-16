@@ -5,9 +5,6 @@ role: PhD Student on the ground
 avatar: images/1.jpg
 bio: Hi! I am Ziqi, a first-year Ph.D. student at IIP (data sceience and analytics), advised by Prof. Jia Li and Prof. Yong Huang. Prior to joining HKUST, I received my bachelor's degree from Huazhong University of Science & Technology and master's degree from Tsinghua University. My reseaech interests include AI-aided drug discovery and deep graph learning.
 organization:
-  name: HKUST IIP
-  url: https://emia.hkust.edu.hk/iip
-LocalBusiness:
   name: Highly Recommended
   url: https://linsto.org
 social:
