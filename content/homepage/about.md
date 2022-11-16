@@ -45,16 +45,12 @@ widget:
 
 ## Selected Publications
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+**Hierarchical Graph Learning for Protein-Protein Interaction** <br>
+**Ziqi Gao**, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang and Jia Li<br>
+In *Nature Communications*, 2022 <br>
+\[Paper PDF]\ / \[Presentation\] / \[Slides\]
+
+
 
 ## Details  
 
