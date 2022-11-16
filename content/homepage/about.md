@@ -1,9 +1,9 @@
 ---
-title: Ziqi's Homepage
+title: Ziqi's Homepage (Under Construction)
 draft: false
 role: PhD Student at HKUST
 avatar: images/1.jpg
-bio: Hi! I am Ziqi, a first-year Ph.D. student at IIP (data sceience and analytics), advised by Prof. Jia Li and Prof. Yong Huang. Prior to joining HKUST, I received my bachelor's degree from Huazhong University of Science & Technology and master's degree from Tsinghua University. My reseaech interests include AI-aided drug discovery and deep graph learning.
+bio: Hi! I am Ziqi, a first-year Ph.D. student from Data Sceience and Analytics at HKUST, advised by Prof. [Jia Li](https://sites.google.com/view/lijia) and Prof. Yong Huang. Prior to joining HKUST, I received my bachelor's degree from Huazhong University of Science & Technology and master's degree from Tsinghua University. My reseaech interests include AI-aided drug discovery and deep graph learning.
 organization:
   name: Highly Recommended Blog
   url: https://linsto.org
