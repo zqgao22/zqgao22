@@ -45,7 +45,7 @@ widget:
 
 ## Selected Publications
 
-**Hierarchical Graph Learning for Protein-Protein Interaction** 
+Hierarchical Graph Learning for Protein-Protein Interaction
 
 
 
