@@ -8,7 +8,7 @@ organization:
   name: HKUST IIP
   url: https://emia.hkust.edu.hk/iip
 person:
-  name: HKUST IIP
+  name: My Spiritual Tonic
   url: https://linsto.org
 social:
   - icon: envelope
