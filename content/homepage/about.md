@@ -1,5 +1,5 @@
 ---
-title: Ziqi's Homepage
+title: Ziqi Gao(高子琪)
 draft: false
 role: PhD Student at HKUST
 avatar: images/1.jpg
