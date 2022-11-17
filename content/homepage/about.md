@@ -43,7 +43,7 @@ widget:
     attachment: 
 ---
 
-## Selected Publications
+<font color=Purple size=5>## Selected Publications</font>
 
 **<font color=Purple size=5>Hierarchical Graph Learning for Protein-Protein Interaction</font>**<br>
 **Ziqi Gao**, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang and Jia Li<br>
