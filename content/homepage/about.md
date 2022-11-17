@@ -52,7 +52,7 @@ widget:
 <br><br>
 **<font color=Purple size=4>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**<br>
 **Ziqi Gao**, Yifan Niu, Jiashun Cheng, Jianheng Tang, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li<br>
-In *AAAI*, 2023 <br>
+*Stay Tuned* <br>
 [Paper PDF] [Presentation] [Slides]
 <br><br>
 **<font color=Purple size=4>Rethinking Graph Neural Networks for Anomaly Detection</font>**<br>
