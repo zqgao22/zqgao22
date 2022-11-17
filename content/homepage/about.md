@@ -45,18 +45,28 @@ widget:
 
 ## Selected Publications
 
-**<font color=Purple size=12>Hierarchical Graph Learning for Protein-Protein Interaction</font>**<br>
+**<font color=Purple size=5>Hierarchical Graph Learning for Protein-Protein Interaction</font>**<br>
 **Ziqi Gao**, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang and Jia Li<br>
 In *Nature Communications*, 2022 <br>
 [Paper PDF] [Presentation] [Slides]
 <br><br>
-**<font color=Purple size=12>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**<br>
+**<font color=Purple size=5>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**<br>
 **Ziqi Gao**, Yifan Niu, Jiashun Cheng, Jianheng Tang, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li<br>
 In *AAAI*, 2023 <br>
 [Paper PDF] [Presentation] [Slides]
 <br><br>
-[**<font color=Purple size=12>ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery</font>**](https://arxiv.org/abs/2209.07921)<br>
+**<font color=Purple size=5>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**<br>
+**Ziqi Gao**, Yifan Niu, Jiashun Cheng, Jianheng Tang, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li<br>
+In *AAAI*, 2023 <br>
+[Paper PDF] [Presentation] [Slides]
+<br><br>
+[**<font color=Purple size=5>ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery</font>**](https://arxiv.org/abs/2209.07921)<br>
 Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hengtong Zhang, Yang Yu, Chan Lu, Zhipeng Zhou, Hongteng Xu, Jia Li, Peilin Zhao, Pheng-Ann Heng<br>
+**preprint** <br>
+[Paper PDF] [Presentation] [Slides]
+<br><br>
+[**<font color=Purple size=5>ImGCL: Revisiting Graph Contrastive Learning on Imbalanced Node Classification</font>**](https://arxiv.org/abs/2205.11332)<br>
+Liang Zeng, Lanqing Li, **Ziqi Gao**, Peilin Zhao, Jian Li<br>
 **preprint** <br>
 [Paper PDF] [Presentation] [Slides]
 ## Details  
