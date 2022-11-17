@@ -55,7 +55,7 @@ widget:
 *Stay Tuned* <br>
 [Paper PDF] [Presentation] [Slides]
 <br><br>
-**<font color=#CD5C5C size=4>Rethinking Graph Neural Networks for Anomaly Detection</font>**<br>
+[**<font color=#CD5C5C size=4>Rethinking Graph Neural Networks for Anomaly Detection</font>**](https://arxiv.org/abs/2205.15508)<br>
 Jianheng Tang, Jiajin Li, **Ziqi Gao**, Jia Li<br>
 In *ICML*, 2022 <br>
 [Paper PDF] [Presentation] [Slides]
