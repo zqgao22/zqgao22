@@ -1,5 +1,5 @@
 ---
-title: Ziqi's Homepage (Under Construction)
+title: Ziqi's Homepage
 draft: false
 role: PhD Student at HKUST
 avatar: images/1.jpg
