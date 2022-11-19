@@ -77,11 +77,11 @@ Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hen
 [**<font color=#CD5C5C size=4>Extendible ghost imaging with high reconstruction quality in strong scattering medium</font>**](https://arxiv.org/abs/2209.07921)<br>
 **Ziqi Gao***, Xuemin Cheng*, Junbai Yue, Qun Hao<br>
 In *Optics Express* <br>
-[Paper PDF]<br>
+[Paper PDF]<br><br>
 [**<font color=#CD5C5C size=4>Extendible ghost imaging with high reconstruction quality in strong scattering medium</font>**](https://arxiv.org/abs/2209.07921)<br>
 **Ziqi Gao***, Xuemin Cheng*, Junbai Yue, Qun Hao<br>
 In *Optics Express* <br>
-[Paper PDF]<br>
+[Paper PDF]<br><br>
 [**<font color=#CD5C5C size=4>Extendible ghost imaging with high reconstruction quality in strong scattering medium</font>**](https://arxiv.org/abs/2209.07921)<br>
 **Ziqi Gao***, Xuemin Cheng*, Junbai Yue, Qun Hao<br>
 In *Optics Express* <br>
