@@ -73,6 +73,7 @@ Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hen
 *preprint* <br>
 [Paper PDF] [Presentation] [Slides]<br><br>
 - ***<font size=4>Optical Quantum Computing and Signal Processing</font>***<br>
+
 [**<font color=#CD5C5C size=4>Extendible ghost imaging with high reconstruction quality in strong scattering medium</font>**](https://arxiv.org/abs/2209.07921)<br>
 **Ziqi Gao***, Xuemin Cheng*, Junbai Yue, Qun Hao<br>
 *preprint* <br>
