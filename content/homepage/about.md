@@ -46,7 +46,7 @@ widget:
 ## Selected Publications
 [\*equal contribution]<br><br>
 
-**<font size=5>Graph-based ML and Drug Discovery</font>**<br>
+-***<font size=4>Graph-based ML and Drug Discovery</font>***<br>
 
 **<font color=#CD5C5C size=4>Hierarchical Graph Learning for Protein-Protein Interaction</font>**<br>
 **Ziqi Gao**, Chenran Jiang, Jiawen Zhang, Xiaosen Jiang, Lanqing Li, Peilin Zhao, Huanming Yang, Yong Huang, Jia Li<br>
