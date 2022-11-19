@@ -74,19 +74,19 @@ Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hen
 [Paper PDF] [Presentation] [Slides]<br><br>
 - ***<font size=4>Optical Quantum Computing and Signal Processing</font>***<br>
 
-[**<font color=#CD5C5C size=4>Extendible ghost imaging with high reconstruction quality in strong scattering medium</font>**](https://arxiv.org/abs/2209.07921)<br>
+**<font color=#CD5C5C size=4>Extendible ghost imaging with high reconstruction quality in strong scattering medium</font>**<br>
 **Ziqi Gao***, Xuemin Cheng*, Junbai Yue, Qun Hao<br>
 In *Optics Express* <br>
 [Paper PDF]<br><br>
-[**<font color=#CD5C5C size=4>Computational ghost imaging in scattering</font>**](https://arxiv.org/abs/2209.07921)<br>
+[**<font color=#CD5C5C size=4>Computational ghost imaging in scattering media using simulation-based deep learning</font>**](https://ieeexplore.ieee.org/abstract/document/9200747)<br>
 **Ziqi Gao**, Xuemin Cheng, Ke Chen, Anqi Wang, Yao Hu, Shaohui Zhang, Qun Hao<br>
 In *IEEE Photonics Journal* <br>
 [Paper PDF]<br><br>
-[**<font color=#CD5C5C size=4>Compressive ghost imaging in scattering media guided by region of interest</font>**](https://arxiv.org/abs/2209.07921)<br>
-**Ziqi Gao**, Xuemin Cheng*, Linfeng Zhang, Yao Hu, Qun Hao<br>
+[**<font color=#CD5C5C size=4>Compressive ghost imaging in scattering media guided by region of interest</font>**](https://iopscience.iop.org/article/10.1088/2040-8986/ab8612/meta)<br>
+**Ziqi Gao**, Xuemin Cheng, Linfeng Zhang, Yao Hu, Qun Hao<br>
 In *Journal of Optics* <br>
 [Paper PDF]<br><br>
-[**<font color=#CD5C5C size=4>Computational ghost imaging with PSF-guiding deep learning through various unknown turbid scattering media</font>**](https://arxiv.org/abs/2209.07921)<br>
+[**<font color=#CD5C5C size=4>Computational ghost imaging with PSF-guiding deep learning through various unknown turbid scattering media</font>**](https://iopscience.iop.org/article/10.1088/2040-8986/ac9741/meta)<br>
 Ke Chen, Hongyuan Xiao, Xuemin Cheng, **Ziqi Gao**, Anqi Wang, Yao Hu, Qun Hao<br>
 In *Journal of Optics* <br>
 [Paper PDF]<br><br>
