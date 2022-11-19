@@ -60,14 +60,14 @@ Jianheng Tang, Jiajin Li, **Ziqi Gao**, Jia Li<br>
 In *ICML*, 2022 <br>
 [Paper PDF] [Presentation] [Slides]
 <br><br>
-[**<font color=#CD5C5C size=4>ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery</font>**](https://arxiv.org/abs/2209.07921)<br>
-Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hengtong Zhang, Yang Yu, Chan Lu, Zhipeng Zhou, Hongteng Xu, Jia Li, Peilin Zhao, Pheng-Ann Heng<br>
-*preprint* <br>
-[Paper PDF] [Presentation] [Slides]
-<br><br>
 [**<font color=#CD5C5C size=4>ImGCL: Revisiting Graph Contrastive Learning on Imbalanced Node Classification</font>**](https://arxiv.org/abs/2205.11332)<br>
 Liang Zeng, Lanqing Li, **Ziqi Gao**, Peilin Zhao, Jian Li<br>
 In *AAAI*, 2023 <br>
+[Paper PDF] [Presentation] [Slides]
+<br><br>
+[**<font color=#CD5C5C size=4>ImDrug: A Benchmark for Deep Imbalanced Learning in AI-aided Drug Discovery</font>**](https://arxiv.org/abs/2209.07921)<br>
+Lanqing Li*, Liang Zeng*, **Ziqi Gao***, Shen Yuan*, Yatao Bian, Bingzhe Wu, Hengtong Zhang, Yang Yu, Chan Lu, Zhipeng Zhou, Hongteng Xu, Jia Li, Peilin Zhao, Pheng-Ann Heng<br>
+*preprint* <br>
 [Paper PDF] [Presentation] [Slides]
 ## Details  
 
