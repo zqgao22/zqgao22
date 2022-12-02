@@ -53,7 +53,7 @@ widget:
 *Stay Tuned* <br>
 [Paper PDF] [Presentation] [Slides]
 <br><br>
-**<font color=#CD5C5C size=4>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**<br>
+[**<font color=#CD5C5C size=4>Handling Missing Data via Max-Entropy Regularized Graph Autoencoder</font>**](https://arxiv.org/abs/2211.16771)<br>
 **Ziqi Gao**, Yifan Niu, Jiashun Cheng, Jianheng Tang, Lanqing Li, Tingyang Xu, Peilin Zhao, Fugee Tsung, Jia Li<br>
 In *AAAI*, 2023 <br>
 [Paper PDF] [Presentation] [Slides]
