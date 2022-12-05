@@ -90,15 +90,10 @@ In *Journal of Optics* <br>
 Ke Chen, Hongyuan Xiao, Xuemin Cheng, **Ziqi Gao**, Anqi Wang, Yao Hu, Qun Hao<br>
 In *Journal of Optics* <br>
 [Paper PDF]<br><br>
-## Details  
+## Honors and Awards  
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
+- (2022) Best Application Case Award of the High-Performance Cloud Computing Innovation Contest.
+- (2021) Excellent graduation thesis of Tsinghua University.
+- (2020) National Scholarship in China.
+- (2019) Best Application Case Award of the High-Performance Cloud Computing Innovation Contest.
 
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
